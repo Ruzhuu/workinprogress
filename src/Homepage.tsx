@@ -11,8 +11,10 @@ function Homepage() {
     <>
      
      <div className="pageColumn pageColumn--title">
+
         <img src={touchGrass} className="pageColumn pageColumn--img" alt="Touching grass"/>
 
+        
         <div className="textGroup textGroup--title">
         <h1> WORK IN PROGRESS </h1>
         <h2> <i> a socratica node @ Penn. </i> </h2>
